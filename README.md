@@ -15,5 +15,9 @@
 - python version: `3.9`
 - https://dacon.io/competitions/official/235870/overview/description
 - Resnet50 + LSTM
+  - Resnet50
+    
 ![image](https://github.com/SeulaPark/Study1/assets/70566513/c6a0842b-6c4a-4cf2-805f-86d5f136d02d)
+    - LSTM
+    
 ![image](https://github.com/SeulaPark/Study1/assets/70566513/d6883a75-d0dd-4574-bbf4-6c5256636a2e)
